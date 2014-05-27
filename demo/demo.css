@@ -8,9 +8,6 @@ body {
 
 :visited {
 	color: #38C;
-<<<<<<< HEAD
-}
-=======
 }
 /* Logo */
 .header {
@@ -29,4 +26,3 @@ body {
 		background-image: url(http://filamentgroup.com/images/fg-logo-icon-lrg.png);
 	}
 }
->>>>>>> master
