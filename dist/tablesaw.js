@@ -749,7 +749,7 @@
 	}
 
 	var topLevelPluginName = "tablesaw-sortable",
-		pluginName = "sortable",
+		pluginName = "sortableTable",
 		initSelector = "table[data-" + pluginName + "]",
 		sortableSwitchSelector = "[data-" + pluginName + "-switch]",
 		classes = {
